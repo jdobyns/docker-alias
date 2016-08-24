@@ -1,2 +1,2 @@
 
-curl -fsSL https://raw.github.com/tcnksm/docker-alias/master/zshrc >> ~/.bashrc && source ~/.bashrc
+curl -fsSL https://raw.github.com/jdobyns/docker-alias/master/zshrc >> ~/.bashrc && source ~/.bashrc
